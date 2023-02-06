@@ -1,13 +1,15 @@
 @import url('https://fonts.cdnfonts.com/css/svn-gotham');
+
 :root{
     --text-color:#1c1c1c;
     --text-hover-color:#c9d6df;
 }
-*{
-    padding: 0;
+*{ 
     margin: 0;
-    box-sizing: border-box;
-}
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+   }
 body{
     font-size: 14px;
     
